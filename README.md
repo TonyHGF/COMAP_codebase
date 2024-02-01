@@ -16,4 +16,21 @@
 - Poisson
 - Exponential
 - Gamma
-- ...
+- Beta
+
+
+
+### Gray Model
+
+- GM(1,1)
+- GRA
+
+
+
+### Evaluation Algorithm
+
+- AHP
+- TOPSIS
+- ALARP
+- Gray Relational Analysis
+- Entropy Weight Method
